@@ -28,18 +28,16 @@
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,c" alt="Python and C"/>
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java" alt="Python, C, C++, and Java"/>
 
 ### Web Development
 <img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS"/>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and Visual Studio Code"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and VS Code"/>
 
 </div>
-
----
 
 ## 🚀 My Projects
 
