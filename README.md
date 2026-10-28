@@ -1,90 +1,74 @@
 
-<!-- 🌸 MIDNIGHT ROSE — GITHUB PROFILE README 🌸 -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D65D91,50:6D294D,100:09060B&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=35&fontColor=FFC1DC&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
+# 🌸 Hi! I'm Shryestha Putatunda
 
-<h1 align="center">Hi, I am Shryestha Putatunda 💗</h1>
+### `Computer Science Student` · `Aspiring Developer`
 
-<h3 align="center">
-  🎀 Computer Science Student | Aspiring AI & Data Science Enthusiast 🎀
-</h3>
+*Turning curiosity into code, one step at a time.* 💗
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=D65D91&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Exploring+the+world+of+technology;Learning+%7C+Building+%7C+Growing;Turning+ideas+into+code+%F0%9F%92%97" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09060B,50:6D294D,100:D65D91&height=160&section=header&text=Welcome%20to%20my%20space&fontSize=30&fontColor=FFC1DC&fontAlignY=45" width="100%" alt="Midnight rose and pink welcome banner"/>
+
+</div>
 
 ---
 
-## 🎀 About Me
+## 🌙 About Me
 
-- 🎓 I am a Computer Science student.
-- 🤖 Interested in Artificial Intelligence and Data Science.
-- 💻 Currently learning programming and web development.
-- 🌱 Always curious to explore new technologies and improve my skills.
-- ✨ I believe in learning something new every day.
-- 💌 My goal is to turn creative ideas into meaningful projects.
-
----
-
-## 🌸 Languages & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css&theme=dark" alt="Programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools and technologies" />
-</p>
+- 🎓 I'm a Computer Science student exploring the world of technology.
+- 🐍 Learning Python and strengthening my programming fundamentals.
+- ⚙️ Exploring C to understand how computers work.
+- 🌐 Learning HTML and CSS to create websites.
+- 🚀 Interested in building meaningful projects and participating in hackathons.
+- 🌱 Currently focused on learning, experimenting, and growing as a developer.
 
 ---
 
-## 💗 Currently Growing
+## 🎀 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-6D294D?style=for-the-badge&logo=googlecolab&logoColor=FFC1DC" />
-  <img src="https://img.shields.io/badge/Data%20Science-D65D91?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Development-24101D?style=for-the-badge&logo=html5&logoColor=FFC1DC" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Always-Learning-6D294D?style=flat-square&logo=bookstack&logoColor=FFC1DC" />
-  <img src="https://img.shields.io/badge/Powered%20by-Curiosity-D65D91?style=flat-square&logo=rocket&logoColor=white" />
-</p>
 
----
+### 🌸 Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" alt="Python, C, C++, and Java"/>
 
-## 🌷 My GitHub Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=09060B&title_color=D65D91&text_color=FFC1DC&icon_color=FF8FC7" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=09060B&title_color=D65D91&text_color=FFC1DC" height="165" alt="Most used languages" />
-</p>
+### 💻 Web Development
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML and CSS"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=true&background=09060B&ring=D65D91&fire=FF8FC7&currStreakLabel=FFC1DC&sideLabels=FFC1DC&currStreakNum=FFFFFF&sideNums=D65D91&dates=9B7890" alt="GitHub contribution streak" />
-</p>
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and Visual Studio Code"/>
+
+</div>
 
 ---
 
-## 🎧 A Little More About Me
+## 🌷 My Projects
 
-<p align="center">
-  <i>"Little by little, a little becomes a lot."</i> 🌸
-</p>
+I'm at the beginning of my development journey, and this is where my projects will take shape.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-with%20passion-D65D91?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dream-big-6D294D?style=for-the-badge&logo=starship&logoColor=FFC1DC" />
-</p>
+> 💗 **Coming soon:** My first Python program, C programming exercises, and HTML/CSS web projects.
+
+Follow my repositories to see what I learn and build along the way.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09060B,50:6D294D,100:D65D91&height=120&section=footer" width="100%" />
-</p>
+## 🎯 Current Goals
 
-<p align="center">
-  💗 Thanks for visiting my profile! Have a lovely day. 💗
-</p>
+- [ ] 🐍 Strengthen my Python and C fundamentals.
+- [ ] 🌐 Build my first complete web development project.
+- [ ] 🔧 Learn Git and GitHub workflows.
+- [ ] 💡 Develop projects that solve real problems.
+- [ ] 🤝 Contribute to collaborative coding projects.
+
+---
+
+<div align="center">
+
+### 🌸 One line at a time. One project at a time.
+
+*Thanks for visiting my corner of GitHub!* 💗
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D65D91,50:6D294D,100:09060B&height=100&section=footer" width="100%" alt="Midnight rose footer banner"/>
+
+</div>
